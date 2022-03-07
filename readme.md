@@ -3,8 +3,12 @@
 
 ### 실행
 
-```python3 main.py main.astv```
+```
+python3 main.py main.astv
+```
 
 또는
 
-```python main.py main.astv```
+```
+python main.py main.astv
+```
